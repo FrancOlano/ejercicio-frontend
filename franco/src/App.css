@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(66, 66, 255);
+    background-color: rgb(9, 127, 206);
     color: white;
     font-weight: 700;
     font-size: larger;
@@ -9,8 +9,26 @@ header{
 
 .principal{
     display: inline-block;
-    width: 25rem;
+    width: 22rem;
+    margin: center;
 }
 
+.card {
+    margin-top: 6rem;
+    padding-top: 15px;
+    width: 22rem;
+    align-items: center;
+    border-radius: 4em;
+    text-align: center;
+}
 
+.btn {
+    width: 7rem;
+    margin-bottom: 15px;
+}
+
+.nav {
+    font-size: .80rem;
+    text-align: right;
+}
 
