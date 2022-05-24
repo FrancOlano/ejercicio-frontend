@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(66, 66, 255);
+    color: white;
+    font-weight: 700;
+    font-size: larger;
+    padding: 7px;
+    text-align: center;
+}
+
+.principal{
+    display: inline-block;
+    width: 25rem;
+}
+
+
+
